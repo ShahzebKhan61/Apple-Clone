@@ -1,2 +1,2 @@
 # Apple-Clone
-practise
+practice
